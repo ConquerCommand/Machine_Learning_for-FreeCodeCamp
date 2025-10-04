@@ -1,1 +1,1 @@
-# Machine_Learning_for-FreeCodeCamp
+# Machine Learning for Everybody - FreeCodeCamp
